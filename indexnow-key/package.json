@@ -1,0 +1,9 @@
+{
+  "name": "indexnow-bot",
+  "version": "1.0.0",
+  "main": "indexnow.js",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "xml2js": "^0.6.2"
+  }
+}
